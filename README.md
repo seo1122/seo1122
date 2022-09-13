@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm a Gachon University student and my major is AI.
+I'm currently learning open source SW.
+How to reach me:seo123@gachon.ac.kr
 
 <!--
 **seo1122/seo1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
